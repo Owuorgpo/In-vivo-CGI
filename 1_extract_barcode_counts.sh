@@ -1,19 +1,8 @@
 #!/bin/bash
-#BSUB -n 5
-#BSUB -R span[hosts=1]
-#BSUB -R rusage[mem=10000]
-#BSUB -J WGS
-#BSUB -q long
-#BSUB -W 96:00
 
-#BSUB -o "/home/peter.oluoch-umw/Peter/out/"
-#BSUB -e "/home/peter.oluoch-umw/Peter/err/"
 
-module load subread/1.6.2
-module load samtools/1.3
 #build index
-cd /home/peter.oluoch-umw/all_data/Peter_Hypomorphs/RIF_HMP23
-#subread-buildindex -o esx_rd2 barcodes.fa  #build index. Include a line on how the barcode should look like
+subread-buildindex -o esx_rd2 barcodes.fa  #build index. barcodes.fa is fasta file with all strains and respective barcodes
 
 # Loop through all fastq files in the directory
 for fastq_file in *.fastq.gz; do
