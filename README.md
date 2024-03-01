@@ -1,2 +1,2 @@
 # In-vivo-CGI
-Analysis of in vivo chemical-genetic interactions from NGS data
+Scripts for the analysis of NGS data in in vivo chemical-genetic interactions publication.
