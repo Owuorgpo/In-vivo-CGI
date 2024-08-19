@@ -6,7 +6,7 @@ Codes and commands used in the Oluoch et al In vivo CGI paper
 ## Bash code:
 subread (version 1.6.2)
 samtools (version 1.3)
-**R code:**
+## R code:
 R (Version 4.3.1)
 dplyr (version 1.1.2)
 ggplot2 (3.5.1)
