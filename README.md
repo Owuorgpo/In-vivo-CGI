@@ -2,7 +2,7 @@
 
 Codes and commands used in the Oluoch et al In vivo CGI paper
 
-**Requirements**
+# Requirements
 **Bash code:**
 subread (version 1.6.2)
 samtools (version 1.3)
