@@ -15,3 +15,10 @@ Codes and commands used in the Oluoch et al In vivo CGI paper
 * tidyverse (version 2.0.0)
 * DESeq2 (version 1.40.2)
 * DEBRA (version 1.01)
+
+## Structure:
+### ./
+Scripts for barcode count extractions from fastq files and DEBRA analysis for differential barcode representation.
+
+### Data
+* Counts - Raw barcode counts of individual hypomorphs across different depletion levels and conditions from the main spleen-based screen.
