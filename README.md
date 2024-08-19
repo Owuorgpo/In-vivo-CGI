@@ -1,4 +1,4 @@
-# In-vivo-CGI
+# _In vivo_ Chemical genetics of Mycobacterium tuberculosis
 
 Codes and commands used in the Oluoch et al In vivo CGI paper
 
