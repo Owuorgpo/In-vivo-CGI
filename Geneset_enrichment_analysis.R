@@ -4,7 +4,7 @@ library(dplyr)
 library(ggplot2)
 
 #Load list of genes
-gse <- read_csv("Final DEBRA for KEGG1.csv")
+gse <- read_csv("Data/GSE/Final DEBRA for KEGG1.csv")
 
 #Load custom KEGG functional database
 dt <- read_csv("mtu KEGG with all genes.csv")
