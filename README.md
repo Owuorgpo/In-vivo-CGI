@@ -23,3 +23,4 @@ Scripts for barcode count extractions from fastq files and DEBRA analysis for di
 ### Data
 * Counts - Raw barcode counts of individual hypomorphs across the four depletion levels and conditions from the main spleen-based screen.
 * GSE - Folder with a modified KEGG gene function database; used with the gene-set enrichment analysis script.
+* barcodes.fa - Unique barcode sequences assigned to each strain; used to extract strain counts from the raw fastq files.
