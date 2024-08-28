@@ -21,4 +21,5 @@ Codes and commands used in the Oluoch et al In vivo CGI paper
 Scripts for barcode count extractions from fastq files and DEBRA analysis for differential barcode representation.
 
 ### Data
-* Counts - Raw barcode counts of individual hypomorphs across different depletion levels and conditions from the main spleen-based screen.
+* Counts - Raw barcode counts of individual hypomorphs across the four depletion levels and conditions from the main spleen-based screen.
+* GSE - Folder with a modified KEGG gene function database; used with the gene-set enrichment analysis script.
