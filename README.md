@@ -1,6 +1,6 @@
 # _In vivo_ Chemical genetics of Mycobacterium tuberculosis
 
-Codes and commands used in the Oluoch et al In vivo CGI paper
+Codes and commands used in the Oluoch _et al_ In vivo CGI paper (preprint: https://www.biorxiv.org/content/10.1101/2024.09.04.609063v1)
 
 # Requirements
 ## Bash code:
